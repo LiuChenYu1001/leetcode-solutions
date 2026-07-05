@@ -1,19 +1,17 @@
 class Solution:
     def isPalindrome(self, s: str) -> bool:
-        tem_list = []
+        left, right = 0, len(s) - 1
 
-        for ch in s:
-            if "a" <= ch <= "z" or "A" <= ch <= "Z" or "0" <= ch <= "9":
-                if "A" <= ch <= "Z":
-                    tem_list.append(chr(ord(ch) + 32))
-                else:
-                    tem_list.append(ch)
+        while left < right:
+            while left < right and not s[left].isalnum():
+                left += 1
+            while left < right and not s[right].isalnum():
+                right -= 1
 
-        left, right = 0, len(tem_list) - 1
-        while left <= right:
-            if tem_list[left] != tem_list[right]:
+            if s[left].lower() != s[right].lower():
                 return False
+
             left += 1
             right -= 1
-        
+
         return True
