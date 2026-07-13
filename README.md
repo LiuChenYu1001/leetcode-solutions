@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
+| [0881-boats-to-save-people](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 ## String
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
+| [0881-boats-to-save-people](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 ## Array
 |  |
 | ------- |
@@ -29,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0228-summary-ranges](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0229-majority-element-ii) |
+| [0881-boats-to-save-people](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0918-maximum-sum-circular-subarray](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1288-remove-covered-intervals](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 ## Linked List
@@ -52,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0229-majority-element-ii) |
+| [0881-boats-to-save-people](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [1288-remove-covered-intervals](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 ## Hash Table
 |  |
