@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0067-add-binary](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0268-missing-number) |
