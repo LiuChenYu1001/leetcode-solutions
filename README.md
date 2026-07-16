@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0344-reverse-string) |
+| [0394-decode-string](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0394-decode-string) |
 | [0680-valid-palindrome-ii](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 ## Greedy
 |  |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0394-decode-string](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0394-decode-string) |
 ## Counting
 |  |
 | ------- |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0394-decode-string](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0901-online-stock-span) |
