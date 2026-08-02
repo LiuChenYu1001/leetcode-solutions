@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0268-missing-number) |
 | [0735-asteroid-collision](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0739-daily-temperatures) |
+| [0877-stone-game](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0918-maximum-sum-circular-subarray](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1288-remove-covered-intervals](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
+| [0877-stone-game](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0877-stone-game) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0877-stone-game](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Queue
 |  |
@@ -212,4 +215,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
