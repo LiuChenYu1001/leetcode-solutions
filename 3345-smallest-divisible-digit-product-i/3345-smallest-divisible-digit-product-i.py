@@ -10,6 +10,5 @@ class Solution:
         while True:
             if digit_product(n) % t == 0:
                 return n
-            else:
-                n += 1
-                continue 
+            
+            n += 1
