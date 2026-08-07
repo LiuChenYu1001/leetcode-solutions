@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
+| [0146-lru-cache](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0146-lru-cache) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Math
 |  |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0127-word-ladder) |
 | [0138-copy-list-with-random-pointer](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
+| [0146-lru-cache](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0229-majority-element-ii](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0268-missing-number) |
 | [1331-rank-transform-of-an-array](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0225-implement-stack-using-queues](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -271,4 +274,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0127-word-ladder) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
