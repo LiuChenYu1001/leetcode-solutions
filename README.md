@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0067-add-binary](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0127-word-ladder](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0127-word-ladder) |
 | [0344-reverse-string](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0394-decode-string) |
 | [0680-valid-palindrome-ii](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0127-word-ladder](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0127-word-ladder) |
 | [0138-copy-list-with-random-pointer](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0229-majority-element-ii](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0268-missing-number) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0127-word-ladder) |
 | [2685-count-the-number-of-complete-components](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/3310-remove-methods-from-project) |
 ## Union-Find
@@ -264,4 +267,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
