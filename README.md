@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0268-missing-number) |
 | [0463-island-perimeter](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0463-island-perimeter) |
+| [0695-max-area-of-island](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0735-asteroid-collision](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0877-stone-game) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0463-island-perimeter) |
+| [0695-max-area-of-island](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0695-max-area-of-island) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0463-island-perimeter) |
+| [0695-max-area-of-island](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [2685-count-the-number-of-complete-components](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -239,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0463-island-perimeter) |
+| [0695-max-area-of-island](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [2685-count-the-number-of-complete-components](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/3310-remove-methods-from-project) |
 ## Union-Find
@@ -246,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [2685-count-the-number-of-complete-components](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
 ## Graph Theory
 |  |
