@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0056-merge-intervals](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0130-surrounded-regions](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0130-surrounded-regions) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0007-reverse-integer) |
+| [0066-plus-one](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0189-rotate-array) |
