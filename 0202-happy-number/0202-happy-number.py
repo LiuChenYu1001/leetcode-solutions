@@ -10,7 +10,8 @@ class Solution:
 
             return nxt 
 
-        slow = fast = n
+        slow  = n
+        fast = nxt_num(n)
 
         while True:
             slow = nxt_num(slow)
