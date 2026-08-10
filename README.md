@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0228-summary-ranges](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0229-majority-element-ii) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0200-number-of-islands](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0463-island-perimeter) |
 ## Divide and Conquer
 |  |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0463-island-perimeter) |
 | [2685-count-the-number-of-complete-components](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/3310-remove-methods-from-project) |
@@ -230,12 +233,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0127-word-ladder) |
+| [0200-number-of-islands](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0463-island-perimeter) |
 | [2685-count-the-number-of-complete-components](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/3310-remove-methods-from-project) |
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [2685-count-the-number-of-complete-components](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
 ## Graph Theory
 |  |
