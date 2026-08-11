@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0953-verifying-an-alien-dictionary](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0953-verifying-an-alien-dictionary) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
 | [0680-valid-palindrome-ii](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0881-boats-to-save-people) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0853-car-fleet) |
 | [0901-online-stock-span](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0901-online-stock-span) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Design
 |  |
@@ -258,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0853-car-fleet) |
 | [0901-online-stock-span](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0901-online-stock-span) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Depth-First Search
 |  |
 | ------- |
