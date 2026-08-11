@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0268-missing-number) |
+| [0427-construct-quad-tree](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0427-construct-quad-tree) |
 | [0463-island-perimeter](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0735-asteroid-collision](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0735-asteroid-collision) |
@@ -155,12 +156,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0427-construct-quad-tree](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0427-construct-quad-tree) |
 | [0463-island-perimeter](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0994-rotting-oranges) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0427-construct-quad-tree](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0427-construct-quad-tree) |
 | [0918-maximum-sum-circular-subarray](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Dynamic Programming
 |  |
@@ -322,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0427-construct-quad-tree](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0427-construct-quad-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
