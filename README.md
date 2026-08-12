@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0127-word-ladder) |
+| [0168-excel-sheet-column-title](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0316-remove-duplicate-letters](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0394-decode-string) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0069-sqrtx) |
+| [0168-excel-sheet-column-title](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0268-missing-number) |
