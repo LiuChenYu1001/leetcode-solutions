@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
+| [0752-open-the-lock](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0752-open-the-lock) |
 | [0953-verifying-an-alien-dictionary](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0953-verifying-an-alien-dictionary) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0735-asteroid-collision](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0739-daily-temperatures) |
+| [0752-open-the-lock](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0752-open-the-lock) |
 | [0853-car-fleet](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0853-car-fleet) |
 | [0877-stone-game](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0881-boats-to-save-people) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0567-permutation-in-string) |
+| [0752-open-the-lock](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0752-open-the-lock) |
 | [0953-verifying-an-alien-dictionary](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0953-verifying-an-alien-dictionary) |
 | [0997-find-the-town-judge](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0997-find-the-town-judge) |
 | [1331-rank-transform-of-an-array](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -294,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0695-max-area-of-island) |
+| [0752-open-the-lock](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0752-open-the-lock) |
 | [0994-rotting-oranges](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [2685-count-the-number-of-complete-components](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/3310-remove-methods-from-project) |
@@ -366,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0127-word-ladder) |
+| [0752-open-the-lock](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0752-open-the-lock) |
 ## Doubly-Linked List
 |  |
 | ------- |
