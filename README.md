@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 | [0877-stone-game](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0877-stone-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1137-n-th-tribonacci-number](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0978-longest-turbulent-subarray](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0978-longest-turbulent-subarray) |
+| [1137-n-th-tribonacci-number](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 ## Queue
 |  |
 | ------- |
@@ -428,4 +430,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
+## Memoization
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
