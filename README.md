@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0567-permutation-in-string) |
+| [0658-find-k-closest-elements](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0427-construct-quad-tree](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0427-construct-quad-tree) |
 | [0463-island-perimeter](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0463-island-perimeter) |
+| [0658-find-k-closest-elements](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0695-max-area-of-island](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0735-asteroid-collision](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0739-daily-temperatures) |
@@ -142,12 +144,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0268-missing-number) |
+| [0658-find-k-closest-elements](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0229-majority-element-ii](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0268-missing-number) |
+| [0658-find-k-closest-elements](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0853-car-fleet](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0853-car-fleet) |
 | [0881-boats-to-save-people](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [1288-remove-covered-intervals](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
@@ -236,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0567-permutation-in-string) |
+| [0658-find-k-closest-elements](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0978-longest-turbulent-subarray](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0978-longest-turbulent-subarray) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -389,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0658-find-k-closest-elements](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1046-last-stone-weight](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1046-last-stone-weight) |
 ## Binary Tree
