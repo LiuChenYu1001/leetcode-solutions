@@ -1,30 +1,29 @@
+import random
+
 class Solution:
     def sortArray(self, nums: List[int]) -> List[int]:
-        def merge_sort(arr):
-            if len(arr) <= 1:
-                return arr
+        def quick_sort(left, right):
+            if left >= right:
+                return
 
-            mid = len(arr) // 2
-            left = merge_sort(arr[:mid])
-            right = merge_sort(arr[mid:])
+            pivot_idx = random.randint(left, right)
+            pivot = nums[pivot_idx]
+            lt, i, gt = left, left, right
 
-            return merge(left, right)
-
-        def merge(left, right):
-            result = []
-            i = j = 0
-
-            while i < len(left) and j < len(right):
-                if left[i] <= right[j]:
-                    result.append(left[i])
+            while i <= gt:
+                if nums[i] < pivot:
+                    nums[lt], nums[i] = nums[i], nums[lt]
+                    lt += 1
                     i += 1
+                elif nums[i] > pivot:
+                    nums[gt], nums[i] = nums[i], nums[gt]
+                    gt -= 1
                 else:
-                    result.append(right[j])
-                    j += 1
+                    i += 1
 
-            result += left[i:]
-            result += right[j:]
+            quick_sort(left, lt - 1)
+            quick_sort(gt + 1, right)
 
-            return result
+        quick_sort(0, len(nums) - 1)
 
-        return merge_sort(nums)
+        return nums
