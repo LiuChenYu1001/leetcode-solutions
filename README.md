@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0997-find-the-town-judge) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1046-last-stone-weight) |
+| [1095-find-in-mountain-array](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1095-find-in-mountain-array) |
 | [1288-remove-covered-intervals](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [0981-time-based-key-value-store](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0981-time-based-key-value-store) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1095-find-in-mountain-array](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1095-find-in-mountain-array) |
 ## Sorting
 |  |
 | ------- |
@@ -521,4 +523,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
+## Interactive
+|  |
+| ------- |
+| [1095-find-in-mountain-array](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1095-find-in-mountain-array) |
+## Ternary Search
+|  |
+| ------- |
+| [1095-find-in-mountain-array](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1095-find-in-mountain-array) |
 <!---LeetCode Topics End-->
