@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2013-detect-squares](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/2013-detect-squares) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Linked List
 |  |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0885-spiral-matrix-iii](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0885-spiral-matrix-iii) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Stack
 |  |
 | ------- |
