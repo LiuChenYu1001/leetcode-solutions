@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0036-valid-sudoku) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0347-top-k-frequent-elements](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0427-construct-quad-tree](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0427-construct-quad-tree) |
 | [0912-sort-an-array](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0912-sort-an-array) |
