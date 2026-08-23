@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0981-time-based-key-value-store](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0981-time-based-key-value-store) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1927-sum-game](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1899-merge-triplets-to-form-target-triplet) |
+| [1927-sum-game](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1927-sum-game](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -453,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0877-stone-game) |
+| [1927-sum-game](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1927-sum-game) |
 ## Minimax
 |  |
 | ------- |
