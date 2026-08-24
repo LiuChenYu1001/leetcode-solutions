@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0268-missing-number) |
+| [0279-perfect-squares](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0371-sum-of-two-integers](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 | [0877-stone-game](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0877-stone-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0213-house-robber-ii) |
+| [0279-perfect-squares](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0377-combination-sum-iv](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0377-combination-sum-iv) |
 | [0410-split-array-largest-sum](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
@@ -423,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0279-perfect-squares](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0463-island-perimeter](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0752-open-the-lock](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0752-open-the-lock) |
@@ -595,9 +598,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0416-partition-equal-subset-sum](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
