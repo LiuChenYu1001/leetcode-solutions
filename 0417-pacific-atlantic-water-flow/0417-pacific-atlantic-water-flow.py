@@ -4,26 +4,36 @@ class Solution:
         pacific = set()
         atlantic = set()
 
-        def dfs(r, c, visited):
+        def bfs(r, c, visited):
+            q = deque([(r, c)])
             visited.add((r, c))
 
-            for dr, dc in [(0, 1), (0, -1), (1, 0), (-1, 0)]:
-                nr, nc = r + dr, c + dc
+            while q:
+                r, c = q.popleft()
 
-                if 0 <= nr < m and 0 <= nc < n and (nr, nc) not in visited and heights[nr][nc] >= heights[r][c]:
-                    dfs(nr, nc, visited)
+                for dr, dc in [(0, 1), (0, -1), (1, 0), (-1, 0)]:
+                    nr, nc = r + dr, c + dc
+
+                    if (
+                        0 <= nr < m
+                        and 0 <= nc < n
+                        and (nr, nc) not in visited
+                        and heights[nr][nc] >= heights[r][c]
+                    ):
+                        visited.add((nr, nc))
+                        q.append((nr, nc))
 
         for c in range(n):
-            dfs(0, c, pacific)
+            bfs(0, c, pacific)
 
         for r in range(m):
-            dfs(r, 0, pacific)
+            bfs(r, 0, pacific)
 
         for c in range(n):
-            dfs(m - 1, c, atlantic)
+            bfs(m - 1, c, atlantic)
 
         for r in range(m):
-            dfs(r, n - 1, atlantic)
+            bfs(r, n - 1, atlantic)
 
         ans = []
 
