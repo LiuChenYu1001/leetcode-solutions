@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
 | [0410-split-array-largest-sum](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
+| [0621-task-scheduler](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0763-partition-labels) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0427-construct-quad-tree](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0427-construct-quad-tree) |
 | [0435-non-overlapping-intervals](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0463-island-perimeter](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0463-island-perimeter) |
+| [0621-task-scheduler](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0695-max-area-of-island) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
+| [0621-task-scheduler](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [0846-hand-of-straights](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0846-hand-of-straights) |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0567-permutation-in-string) |
+| [0621-task-scheduler](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [0752-open-the-lock](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0752-open-the-lock) |
 | [0763-partition-labels](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0763-partition-labels) |
@@ -342,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0229-majority-element-ii](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [2013-detect-squares](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/2013-detect-squares) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -534,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
