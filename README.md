@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1927-sum-game](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1927-sum-game) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2013-detect-squares](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/2013-detect-squares) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
