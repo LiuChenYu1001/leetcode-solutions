@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0135-candy) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0054-spiral-matrix](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0055-jump-game](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0055-jump-game) |
 | [0091-decode-ways](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0091-decode-ways) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0139-word-break) |
