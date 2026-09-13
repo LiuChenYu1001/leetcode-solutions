@@ -476,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1462-course-schedule-iv](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1462-course-schedule-iv) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2685-count-the-number-of-complete-components](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/3310-remove-methods-from-project) |
@@ -565,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0427-construct-quad-tree](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0427-construct-quad-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1325-delete-leaves-with-a-given-value) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/2368-reachable-nodes-with-restrictions) |
 ## Binary Search Tree
 |  |
@@ -592,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0337-house-robber-iii) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1325-delete-leaves-with-a-given-value) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Bidirectional Search
 |  |
 | ------- |
