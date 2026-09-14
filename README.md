@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0343-integer-break](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0343-integer-break) |
 | [0371-sum-of-two-integers](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
+| [0836-rectangle-overlap](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0877-stone-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
@@ -734,4 +735,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0207-course-schedule) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
