@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2013-detect-squares](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/2013-detect-squares) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/2368-reachable-nodes-with-restrictions) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [1288-remove-covered-intervals](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Hash Table
 |  |
@@ -519,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2685-count-the-number-of-complete-components](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Graph Theory
 |  |
 | ------- |
