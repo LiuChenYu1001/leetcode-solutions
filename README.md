@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0981-time-based-key-value-store](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0981-time-based-key-value-store) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1143-longest-common-subsequence](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1871-jump-game-vii](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1871-jump-game-vii) |
 | [1927-sum-game](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0978-longest-turbulent-subarray](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0978-longest-turbulent-subarray) |
 | [1137-n-th-tribonacci-number](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1406-stone-game-iii](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1871-jump-game-vii](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1871-jump-game-vii) |
 | [1872-stone-game-viii](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1872-stone-game-viii) |
@@ -754,4 +756,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0836-rectangle-overlap) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
