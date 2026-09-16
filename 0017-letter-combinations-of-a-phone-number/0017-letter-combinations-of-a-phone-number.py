@@ -8,13 +8,17 @@ class Solution:
             "6": "mno", "7": "pqrs", "8": "tuv", "9": "wxyz"
         }
 
-        result = [""]
+        result = []
 
-        for digit in digits:
-            new_result = []
-            for combination in result:
-                for letter in phone_map[digit]:
-                    new_result.append(combination + letter)
-            result = new_result
+        def backtrack(index, path):
+            if index == len(digits):
+                result.append(path)
+                return
+
+            letters = phone_map[digits[index]]
+            for letter in letters:
+                backtrack(index + 1, path + letter)
+        
+        backtrack(0, "")
 
         return result
