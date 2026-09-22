@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1046-last-stone-weight) |
 | [1049-last-stone-weight-ii](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1049-last-stone-weight-ii) |
 | [1095-find-in-mountain-array](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1095-find-in-mountain-array) |
+| [1140-stone-game-ii](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1288-remove-covered-intervals](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0877-stone-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
+| [1140-stone-game-ii](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1872-stone-game-viii](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1872-stone-game-viii) |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0978-longest-turbulent-subarray](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0978-longest-turbulent-subarray) |
 | [1049-last-stone-weight-ii](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1049-last-stone-weight-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
+| [1140-stone-game-ii](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1406-stone-game-iii](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1871-jump-game-vii](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1871-jump-game-vii) |
@@ -612,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1872-stone-game-viii](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1927-sum-game) |
@@ -619,12 +623,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1872-stone-game-viii](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1872-stone-game-viii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1872-stone-game-viii](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1872-stone-game-viii) |
 ## Quicksort
@@ -686,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0304-range-sum-query-2d-immutable](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0410-split-array-largest-sum](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
+| [1140-stone-game-ii](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1871-jump-game-vii](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1871-jump-game-vii) |
 | [1872-stone-game-viii](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [3903-smallest-stable-index-i](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
