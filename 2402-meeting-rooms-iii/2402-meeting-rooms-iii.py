@@ -27,9 +27,8 @@ class Solution:
             count[room] += 1
 
         ans = 0
-
         for room in range(1, n):
             if count[room] > count[ans]:
                 ans = room
 
-        return ans      
+        return ans
