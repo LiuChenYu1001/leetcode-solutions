@@ -5,7 +5,7 @@ class Solution:
         dp[0][0] = True
 
         for j in range(2, n + 1):
-            if p[j - 1] == '*':
+            if p[j - 1] == "*":
                 dp[0][j] = dp[0][j - 2]
 
         for i in range(1, m + 1):
