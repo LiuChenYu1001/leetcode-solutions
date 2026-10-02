@@ -19,7 +19,7 @@ class Solution:
             if len(ans) >= 2 and ans[-1] == ch_1 and ans[-2] == ch_1:
                 if not heap:
                     break
-
+                
                 count_2, ch_2 = heapq.heappop(heap)
                 ans.append(ch_2)
                 count_2 += 1
