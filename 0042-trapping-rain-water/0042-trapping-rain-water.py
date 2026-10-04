@@ -1,19 +1,22 @@
 class Solution:
     def trap(self, height: List[int]) -> int:
-        stack = []
+        left, right = 0, len(height) - 1
+        left_max = right_max = 0
         ans = 0
 
-        for i in range(len(height)):
-            while stack and height[i] > height[stack[-1]]:
-                bottom = stack.pop()
-
-                if not stack:
-                    break
-
-                left = stack[-1]
-                width = i - left - 1
-                ans += (min(height[left], height[i]) - height[bottom]) * width
-
-            stack.append(i)
+        while left < right:
+            if height[left] < height[right]:
+                if height[left] > left_max:
+                    left_max = height[left]
+                else:
+                    ans += left_max - height[left]
+                left += 1
+                
+            else:
+                if height[right] > right_max:
+                    right_max = height[right]
+                else:
+                    ans += right_max - height[right]
+                right -= 1
 
         return ans
