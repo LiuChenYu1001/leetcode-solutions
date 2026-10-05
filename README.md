@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0752-open-the-lock](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0752-open-the-lock) |
 | [0763-partition-labels](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0767-reorganize-string) |
+| [0856-score-of-parentheses](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [0953-verifying-an-alien-dictionary](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0953-verifying-an-alien-dictionary) |
 | [0981-time-based-key-value-store](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0981-time-based-key-value-store) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -543,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0853-car-fleet) |
+| [0856-score-of-parentheses](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [0895-maximum-frequency-stack](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0895-maximum-frequency-stack) |
 | [0901-online-stock-span](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0901-online-stock-span) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -819,6 +821,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0856-score-of-parentheses) |
 ## Merge Sort
 |  |
 | ------- |
