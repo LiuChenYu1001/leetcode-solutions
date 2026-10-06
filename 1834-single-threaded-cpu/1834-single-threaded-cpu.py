@@ -1,3 +1,5 @@
+import heapq
+
 class Solution:
     def getOrder(self, tasks: list[list[int]]) -> list[int]:
         tasks = sorted((enque, processing, idx) for idx, (enque, processing) in enumerate(tasks))
