@@ -32,7 +32,7 @@ class Trie:
 
     def startsWith(self, prefix: str) -> bool:
         node = self.root
-        
+
         for ch in prefix:
             if ch not in node.children:
                 return False
