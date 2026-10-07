@@ -8,9 +8,9 @@ class Solution:
         n = len(project)
 
         for _ in range(k):
-            while i < n and w >= project[i][0]:
+            while i < n and project[i][0] <= w:
                 profit = project[i][1]
-                heapq.heappush(heap, -profit)
+                heapq,heappush(heap, -profit)
                 i += 1
 
             if not heap:
