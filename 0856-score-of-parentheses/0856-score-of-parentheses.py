@@ -9,6 +9,6 @@ class Solution:
                 score = 0
             else:
                 inner_score = max(1, 2 * score)
-                score = stack.pop() + inner_score
+                score = inner_score + stack.pop()
 
         return score
