@@ -9,7 +9,7 @@ class Solution:
                 return nums[left]
 
             pivot = nums[random.randint(left, right)]
-            lt = mid = left
+            lt = mid = 0
             gt = right
 
             while mid <= gt:
@@ -17,9 +17,11 @@ class Solution:
                     nums[lt], nums[mid] = nums[mid], nums[lt]
                     lt += 1
                     mid += 1
+
                 elif nums[mid] > pivot:
                     nums[gt], nums[mid] = nums[mid], nums[gt]
                     gt -= 1
+
                 else:
                     mid += 1
 
