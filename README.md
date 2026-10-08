@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0355-design-twitter](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0355-design-twitter) |
+| [0460-lfu-cache](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0460-lfu-cache) |
 | [0622-design-circular-queue](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0622-design-circular-queue) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0460-lfu-cache](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0460-lfu-cache) |
 | [0567-permutation-in-string](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
@@ -584,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0304-range-sum-query-2d-immutable](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0355-design-twitter](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0355-design-twitter) |
+| [0460-lfu-cache](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0460-lfu-cache) |
 | [0622-design-circular-queue](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0622-design-circular-queue) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0895-maximum-frequency-stack](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0895-maximum-frequency-stack) |
@@ -814,6 +817,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0460-lfu-cache) |
 ## Prefix Sum
 |  |
 | ------- |
