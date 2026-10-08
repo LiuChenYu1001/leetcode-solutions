@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0953-verifying-an-alien-dictionary](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0953-verifying-an-alien-dictionary) |
 | [0981-time-based-key-value-store](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0981-time-based-key-value-store) |
+| [1021-remove-outermost-parentheses](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1143-longest-common-subsequence](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
@@ -568,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0895-maximum-frequency-stack](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0895-maximum-frequency-stack) |
 | [0901-online-stock-span](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Design
@@ -853,6 +855,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Merge Sort
 |  |
 | ------- |
