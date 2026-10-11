@@ -89,7 +89,6 @@ class LFUCache:
 
         self.min_freq = 1
 
-
 # Your LFUCache object will be instantiated and called as such:
 # obj = LFUCache(capacity)
 # param_1 = obj.get(key)
