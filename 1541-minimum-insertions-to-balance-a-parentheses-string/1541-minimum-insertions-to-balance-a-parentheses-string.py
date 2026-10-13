@@ -6,7 +6,7 @@ class Solution:
             if ch == "(":
                 right += 2
 
-                if right == 1:
+                if right % 2 == 1:
                     left += 1
                     right -= 1
 
