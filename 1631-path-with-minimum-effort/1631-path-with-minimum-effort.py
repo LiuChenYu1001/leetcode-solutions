@@ -28,4 +28,4 @@ class Solution:
                     effort[nr][nc] = new_effort
                     heapq.heappush(heap, (new_effort, nr, nc))
 
-        return dist[m - 1][n - 1] 
+        return effort[m - 1][n - 1] 
