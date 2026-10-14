@@ -12,6 +12,9 @@ class Solution:
         while heap:
             curr_effort, r, c = heapq.heappop(heap)
 
+            if curr_effort > effort[r][c]:
+                continue
+
             if (r, c) == (m - 1, n - 1):
                 return curr_effort
 
