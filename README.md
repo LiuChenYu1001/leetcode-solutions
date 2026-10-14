@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0752-open-the-lock](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0752-open-the-lock) |
+| [0778-swim-in-rising-water](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [0835-image-overlap](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0835-image-overlap) |
 | [0846-hand-of-straights](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0846-hand-of-straights) |
 | [0853-car-fleet](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0853-car-fleet) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0658-find-k-closest-elements](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
+| [0778-swim-in-rising-water](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [0981-time-based-key-value-store](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0981-time-based-key-value-store) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -417,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0427-construct-quad-tree](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0427-construct-quad-tree) |
 | [0463-island-perimeter](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0695-max-area-of-island) |
+| [0778-swim-in-rising-water](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [0835-image-overlap](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0835-image-overlap) |
 | [0885-spiral-matrix-iii](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0885-spiral-matrix-iii) |
 | [0994-rotting-oranges](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0994-rotting-oranges) |
@@ -647,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0721-accounts-merge) |
+| [0778-swim-in-rising-water](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1462-course-schedule-iv](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1462-course-schedule-iv) |
 | [1631-path-with-minimum-effort](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
@@ -674,6 +678,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0752-open-the-lock](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0752-open-the-lock) |
+| [0778-swim-in-rising-water](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1462-course-schedule-iv](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1462-course-schedule-iv) |
 | [1631-path-with-minimum-effort](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
@@ -690,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0721-accounts-merge) |
+| [0778-swim-in-rising-water](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2685-count-the-number-of-complete-components](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
@@ -755,6 +761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [0778-swim-in-rising-water](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [0877-stone-game](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1406-stone-game-iii) |
@@ -807,6 +814,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0767-reorganize-string](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0767-reorganize-string) |
+| [0778-swim-in-rising-water](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [0912-sort-an-array](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1046-last-stone-weight) |
@@ -1036,5 +1044,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dijkstra's Algorithm
 |  |
 | ------- |
+| [0778-swim-in-rising-water](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
