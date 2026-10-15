@@ -3,11 +3,11 @@ class Solution:
         if sum > num * 9:
             return ""
 
-        res = []
+        ans = []
 
         for _ in range(num):
             digit = min(9, sum)
-            res.append(str(digit))
+            ans.append(str(digit))
             sum -= digit
 
-        return "".join(res)
+        return "".join(ans)
