@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2368-reachable-nodes-with-restrictions](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2402-meeting-rooms-iii](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/2402-meeting-rooms-iii) |
 | [2707-extra-characters-in-a-string](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/2707-extra-characters-in-a-string) |
+| [2709-greatest-common-divisor-traversal](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/2709-greatest-common-divisor-traversal) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2709-greatest-common-divisor-traversal](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/2709-greatest-common-divisor-traversal) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -618,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2709-greatest-common-divisor-traversal](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/2709-greatest-common-divisor-traversal) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Monotonic Stack
@@ -703,6 +706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2685-count-the-number-of-complete-components](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
+| [2709-greatest-common-divisor-traversal](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/2709-greatest-common-divisor-traversal) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Graph Theory
 |  |
@@ -872,10 +876,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
+| [2709-greatest-common-divisor-traversal](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/2709-greatest-common-divisor-traversal) |
 ## Greatest Common Divisor
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
+| [2709-greatest-common-divisor-traversal](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/2709-greatest-common-divisor-traversal) |
 ## Memoization
 |  |
 | ------- |
@@ -1058,4 +1064,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Prime Factorization
+|  |
+| ------- |
+| [2709-greatest-common-divisor-traversal](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/2709-greatest-common-divisor-traversal) |
 <!---LeetCode Topics End-->
