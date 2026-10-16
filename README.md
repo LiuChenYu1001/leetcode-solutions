@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2013-detect-squares](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/2013-detect-squares) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/2368-reachable-nodes-with-restrictions) |
+| [2392-build-a-matrix-with-conditions](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/2392-build-a-matrix-with-conditions) |
 | [2402-meeting-rooms-iii](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/2402-meeting-rooms-iii) |
 | [2707-extra-characters-in-a-string](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/2707-extra-characters-in-a-string) |
 | [2709-greatest-common-divisor-traversal](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/2709-greatest-common-divisor-traversal) |
@@ -430,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0885-spiral-matrix-iii](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0885-spiral-matrix-iii) |
 | [0994-rotting-oranges](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1631-path-with-minimum-effort](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
+| [2392-build-a-matrix-with-conditions](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/2392-build-a-matrix-with-conditions) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -722,6 +724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0997-find-the-town-judge) |
 | [1462-course-schedule-iv](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1462-course-schedule-iv) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/2368-reachable-nodes-with-restrictions) |
+| [2392-build-a-matrix-with-conditions](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/2392-build-a-matrix-with-conditions) |
 | [2685-count-the-number-of-complete-components](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/3310-remove-methods-from-project) |
 ## Backtracking
@@ -995,11 +998,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0310-minimum-height-trees](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1462-course-schedule-iv](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1462-course-schedule-iv) |
+| [2392-build-a-matrix-with-conditions](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/2392-build-a-matrix-with-conditions) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [2392-build-a-matrix-with-conditions](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/2392-build-a-matrix-with-conditions) |
 ## Geometry
 |  |
 | ------- |
