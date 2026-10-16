@@ -1,16 +1,16 @@
-from collections import deque
+from collections import deque, defaultdict
 
 class Solution:
     def buildMatrix(self, k: int, rowConditions: list[list[int]], colConditions: list[list[int]]) -> list[list[int]]:
-        def topoSort(conditions):
-            graph = [[] for _ in range(k + 1)]
+        def topoSort(condition):
+            graph = defaultdict(list)
             indegree = [0] * (k + 1)
 
-            for u, v in conditions:
+            for u, v in condition:
                 graph[u].append(v)
                 indegree[v] += 1
 
-            q = deque(i for i in range(1, k + 1) if indegree[i] == 0)
+            q = deque([i for i in range(1, k + 1) if indegree[i] == 0])
             order = []
 
             while q:
