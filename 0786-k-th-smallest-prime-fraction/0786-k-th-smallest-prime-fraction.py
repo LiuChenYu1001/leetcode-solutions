@@ -1,13 +1,18 @@
+import heapq
+
 class Solution:
     def kthSmallestPrimeFraction(self, arr: list[int], k: int) -> list[int]:
-        tem = []
+        heap = []
         n = len(arr)
 
         for i in range(n):
             for j in range(i + 1, n):
-                tem.append((arr[i] / arr[j], arr[i], arr[j]))
+                heapq.heappush(heap, (arr[i] / arr[j], arr[i], arr[j]))
 
-        tem.sort()
-        target, a, b  = tem[k - 1]
+        while k > 1:
+            heapq.heappop(heap)
+            k -= 1
+
+        _, a, b = heapq.heappop(heap)
 
         return [a, b]
