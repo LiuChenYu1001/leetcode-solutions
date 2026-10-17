@@ -5,14 +5,17 @@ class Solution:
         heap = []
         n = len(arr)
 
-        for i in range(n):
-            for j in range(i + 1, n):
-                heapq.heappush(heap, (arr[i] / arr[j], arr[i], arr[j]))
+        for i in range(n - 1):
+            heapq.heappush(heap, (arr[i] / arr[n - 1], i, n - 1))
 
         while k > 1:
-            heapq.heappop(heap)
+            _, i, j = heapq.heappop(heap)
+
+            if j - 1 > i:
+                heapq.heappush(heap, (arr[i] / arr[j - 1], i, j - 1))
+
             k -= 1
 
-        _, a, b = heapq.heappop(heap)
+        _, i, j = heapq.heappop(heap)
 
-        return [a, b]
+        return [arr[i], arr[j]]
