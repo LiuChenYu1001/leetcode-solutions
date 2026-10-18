@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0763-partition-labels) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0881-boats-to-save-people](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0881-boats-to-save-people) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## String
 |  |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1871-jump-game-vii](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1871-jump-game-vii) |
 | [1927-sum-game](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1927-sum-game) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2707-extra-characters-in-a-string](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/2707-extra-characters-in-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1927-sum-game](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1927-sum-game) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -604,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Design
 |  |
@@ -914,6 +918,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Merge Sort
 |  |
 | ------- |
