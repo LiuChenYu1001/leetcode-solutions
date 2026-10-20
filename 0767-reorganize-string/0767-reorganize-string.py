@@ -7,22 +7,22 @@ class Solution:
         heap = [(-freq, ch) for ch, freq in count.items()]
         heapq.heapify(heap)
 
-        result = []
-        prev_count = 0
-        prev_ch = ""
+        ans = []
+        pre_ch = ""
+        pre_count = 0
 
         while heap:
             count, ch = heapq.heappop(heap)
-            result.append(ch)
+            ans.append(ch)
             count += 1
 
-            if prev_count < 0:
-                heapq.heappush(heap, (prev_count, prev_ch))
+            if pre_count < 0:
+                heapq.heappush(heap, (pre_count, pre_ch))
 
-            prev_count = count
-            prev_ch = ch
+            pre_count = count
+            pre_ch = ch
 
-        if prev_count < 0:
+        if pre_count < 0:
             return ""
 
-        return "".join(result)
+        return "".join(ans)
