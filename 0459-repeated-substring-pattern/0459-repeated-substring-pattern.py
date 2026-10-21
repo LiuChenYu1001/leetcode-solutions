@@ -4,8 +4,8 @@ class Solution:
 
         for length in range(1, n // 2 + 1):
             if n % length == 0:
-                pattern = s[:length]
-                if pattern * (n // length) == s:
+                sub = s[:length]
+                if sub * (n // length) == s:
                     return True
 
         return False
