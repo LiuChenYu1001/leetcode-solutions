@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0399-evaluate-division) |
 | [0424-longest-repeating-character-replacement](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0459-repeated-substring-pattern](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0459-repeated-substring-pattern) |
 | [0567-permutation-in-string](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0649-dota2-senate](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0649-dota2-senate) |
@@ -1136,4 +1137,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1584-min-cost-to-connect-all-points](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0459-repeated-substring-pattern) |
+## Z Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0459-repeated-substring-pattern) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
