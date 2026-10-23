@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1143-longest-common-subsequence](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
+| [1392-longest-happy-prefix](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1392-longest-happy-prefix) |
 | [1405-longest-happy-string](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1405-longest-happy-string) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1871-jump-game-vii](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1871-jump-game-vii) |
@@ -1141,12 +1142,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0459-repeated-substring-pattern) |
+| [1392-longest-happy-prefix](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1392-longest-happy-prefix) |
 ## Z Algorithm
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0459-repeated-substring-pattern) |
+| [1392-longest-happy-prefix](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1392-longest-happy-prefix) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0459-repeated-substring-pattern) |
+| [1392-longest-happy-prefix](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1392-longest-happy-prefix) |
+## Rolling Hash
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1392-longest-happy-prefix) |
+## Hash Function
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1392-longest-happy-prefix) |
 <!---LeetCode Topics End-->
