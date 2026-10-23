@@ -10,7 +10,7 @@ class Solution:
         ans = 0
 
         for i in range(n):
-            if visited[i] or pos[nums[i]] == i:
+            if visited[i] or i == pos[nums[i]]:
                 continue
 
             j = i
