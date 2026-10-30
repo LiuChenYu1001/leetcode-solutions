@@ -7,10 +7,10 @@ class Solution:
             left = 2 * i + 1
             right = 2 * i + 2
 
-            if left < n and nums[left] > nums[largest]:
+            if left < n and nums[largest] < nums[left]:
                 largest = left
 
-            if right < n and nums[right] > nums[largest]:
+            if right < n and nums[largest] < nums[right]:
                 largest = right
 
             if largest != i:
