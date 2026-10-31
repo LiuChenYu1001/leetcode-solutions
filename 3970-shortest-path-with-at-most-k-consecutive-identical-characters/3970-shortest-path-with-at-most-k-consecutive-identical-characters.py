@@ -8,15 +8,16 @@ class Solution:
         for u, v, w in edges:
             graph[u].append((v, w))
 
-        dist = [[float("inf")] * (k + 1) for _ in range(n)]
-        dist[0][1] = 0
+        dist = {}
         heap = [(0, 0, 1)]
 
         while heap:
             d, node, count = heapq.heappop(heap)
 
-            if d > dist[node][count]:
+            if (node, count) in dist:
                 continue
+
+            dist[(node, count)] = d
 
             if node == n - 1:
                 return d
@@ -30,10 +31,7 @@ class Solution:
                 if new_count > k:
                     continue
 
-                new_dist = d + w
-
-                if new_dist < dist[nei][new_count]:
-                    dist[nei][new_count] = new_dist
-                    heapq.heappush(heap, (new_dist, nei, new_count))
+                if (nei, new_count) not in dist:
+                    heapq.heappush(heap, (d + w, nei, new_count))
 
         return -1
