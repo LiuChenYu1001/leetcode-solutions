@@ -1,10 +1,10 @@
 class Solution:
     def minSwaps(self, nums: List[int]) -> int:
-        def sum_digit(nums):
-            return sum(int(d) for d in str(nums))
+        def sum_digit(num):
+            return sum(int(d) for d in str(num))
 
         n = len(nums)
-        sorted_nums = sorted(nums, key = lambda num: (sum_digit(num), num))
+        sorted_nums = sorted(nums, key = lambda x: (sum_digit(x), x))
         pos = {num: i for i, num in enumerate(sorted_nums)}
         visited = [False] * n
         ans = 0
