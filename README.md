@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0212-word-search-ii) |
+| [0214-shortest-palindrome](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0214-shortest-palindrome) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0316-remove-duplicate-letters](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
 | [0332-reconstruct-itinerary](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0332-reconstruct-itinerary) |
@@ -1014,6 +1015,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0214-shortest-palindrome](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0214-shortest-palindrome) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -1157,6 +1159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0686-repeated-string-match) |
 | [1392-longest-happy-prefix](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1392-longest-happy-prefix) |
@@ -1164,6 +1167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0686-repeated-string-match) |
 | [1392-longest-happy-prefix](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1392-longest-happy-prefix) |
@@ -1171,16 +1175,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0686-repeated-string-match) |
 | [1392-longest-happy-prefix](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1392-longest-happy-prefix) |
 ## Rolling Hash
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0214-shortest-palindrome) |
 | [1392-longest-happy-prefix](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1392-longest-happy-prefix) |
 ## Hash Function
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0214-shortest-palindrome) |
 | [1392-longest-happy-prefix](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1392-longest-happy-prefix) |
 ## Boyer–Moore String-Search Algorithm
 |  |
