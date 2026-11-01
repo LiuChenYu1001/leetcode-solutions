@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
+| [0686-repeated-string-match](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0686-repeated-string-match) |
 | [0692-top-k-frequent-words](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0752-open-the-lock](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0752-open-the-lock) |
@@ -1157,18 +1158,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0459-repeated-substring-pattern) |
+| [0686-repeated-string-match](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0686-repeated-string-match) |
 | [1392-longest-happy-prefix](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1392-longest-happy-prefix) |
 ## Z Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0459-repeated-substring-pattern) |
+| [0686-repeated-string-match](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0686-repeated-string-match) |
 | [1392-longest-happy-prefix](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1392-longest-happy-prefix) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0459-repeated-substring-pattern) |
+| [0686-repeated-string-match](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0686-repeated-string-match) |
 | [1392-longest-happy-prefix](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1392-longest-happy-prefix) |
 ## Rolling Hash
 |  |
@@ -1182,4 +1186,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0686-repeated-string-match](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
