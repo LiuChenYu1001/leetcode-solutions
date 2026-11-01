@@ -2,7 +2,7 @@ class Solution:
     def strStr(self, haystack: str, needle: str) -> int:
         m, n = len(haystack), len(needle)
 
-        if m == 0:
+        if n == 0:
             return 0
 
         lps = [0] * n
