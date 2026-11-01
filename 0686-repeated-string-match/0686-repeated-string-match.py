@@ -1,13 +1,30 @@
 class Solution:
     def repeatedStringMatch(self, a: str, b: str) -> int:
-        count = (len(b) + len(a) - 1) // len(a)
+        m, n = len(a), len(b)
+        count = (n + m - 1) // m
+        s = a * (count + 1)
 
-        s = a * count
+        lps = [0] * n
+        j = 0
+        for i in range(1, n):
+            while j > 0 and b[i] != b[j]:
+                j = lps[j - 1]
 
-        if b in s:
-            return count
+            if b[i] == b[j]:
+                j += 1
+                lps[i] = j
 
-        if b in s + a:
-            return count + 1
+        j = 0
+        for i in range(len(s)):
+            while j > 0 and s[i] != b[j]:
+                j = lps[j - 1]
+
+            if s[i] == b[j]:
+                j += 1
+
+            if j == n:
+                start = i - n + 1
+                
+                return (start + n + m - 1) // m
 
         return -1
