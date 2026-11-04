@@ -1,8 +1,8 @@
 class Solution:
-    def largestRectangleArea(self, heights: List[int]) -> int:
-        stack = []
-        ans = 0
+    def largestRectangleArea(self, heights: list[int]) -> int:
         n = len(heights)
+        ans = 0
+        stack = []
 
         for i in range(n):
             while stack and heights[stack[-1]] > heights[i]:
@@ -13,7 +13,7 @@ class Solution:
                 else:
                     w = i - stack[-1] - 1
 
-                ans = max(ans, w * h)
+                ans = max(ans, h * w)
 
             stack.append(i)
 
@@ -25,6 +25,6 @@ class Solution:
             else:
                 w = n - stack[-1] - 1
 
-            ans = max(ans, w * h)
+            ans = max(ans, h * w)
 
         return ans
