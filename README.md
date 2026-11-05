@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0399-evaluate-division) |
 | [0424-longest-repeating-character-replacement](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0459-repeated-substring-pattern](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0459-repeated-substring-pattern) |
+| [0500-keyboard-row](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0500-keyboard-row) |
 | [0567-permutation-in-string](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0649-dota2-senate](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0649-dota2-senate) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0463-island-perimeter) |
 | [0473-matchsticks-to-square](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0473-matchsticks-to-square) |
 | [0494-target-sum](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0494-target-sum) |
+| [0500-keyboard-row](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0500-keyboard-row) |
 | [0502-ipo](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0502-ipo) |
 | [0518-coin-change-ii](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0621-task-scheduler](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0621-task-scheduler) |
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0355-design-twitter](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0460-lfu-cache](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0460-lfu-cache) |
+| [0500-keyboard-row](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0500-keyboard-row) |
 | [0567-permutation-in-string](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
