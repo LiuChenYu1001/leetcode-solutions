@@ -11,5 +11,6 @@ class Solution:
                 if w[0] in row:
                     if all(ch in row for ch in w):
                         ans.append(word)
+                    break
 
         return ans
