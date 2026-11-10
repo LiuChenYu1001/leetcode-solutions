@@ -283,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3693-climbing-stairs-ii](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/3693-climbing-stairs-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -565,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1871-jump-game-vii](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1871-jump-game-vii) |
 | [1872-stone-game-viii](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [2707-extra-characters-in-a-string](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/2707-extra-characters-in-a-string) |
+| [3693-climbing-stairs-ii](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/3693-climbing-stairs-ii) |
 ## Queue
 |  |
 | ------- |
