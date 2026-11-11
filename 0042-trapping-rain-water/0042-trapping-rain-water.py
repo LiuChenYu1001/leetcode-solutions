@@ -1,10 +1,10 @@
 class Solution:
-    def trap(self, height: List[int]) -> int:
+    def trap(self, height: list[int]) -> int:
         stack = []
         ans = 0
 
         for i in range(len(height)):
-            while stack and height[i] > height[stack[-1]]:
+            while stack and height[stack[-1]] < height[i]:
                 bottom = stack.pop()
 
                 if not stack:
