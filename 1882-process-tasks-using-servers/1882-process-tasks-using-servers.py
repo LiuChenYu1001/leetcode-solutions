@@ -5,11 +5,10 @@ class Solution:
         available = []
         busy = []
         ans = []
+        time = 0
 
         for idx, weight in enumerate(servers):
             heapq.heappush(available, (weight, idx))
-
-        time = 0
 
         for i, duration in enumerate(tasks):
             time = max(i, time)
@@ -27,7 +26,6 @@ class Solution:
 
             weight, idx = heapq.heappop(available)
             ans.append(idx)
-
-            heapq.heappush(busy, (time + tasks[i], weight, idx))
+            heapq.heappush(busy, (time + duration, weight, idx))
 
         return ans
