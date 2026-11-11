@@ -8,9 +8,9 @@ class Solution:
         count = [0] * k
 
         for i in range(len(arrival)):
-            t = arrival[i]
+            time = arrival[i]
 
-            while busy and busy[0][0] <= t:
+            while busy and busy[0][0] <= time:
                 end_time, server = heapq.heappop(busy)
                 heapq.heappush(available, (i + (server - i) % k))
 
@@ -19,7 +19,7 @@ class Solution:
 
             server = heapq.heappop(available) % k
             count[server] += 1
-            heapq.heappush(busy, (t + load[i], server))
+            heapq.heappush(busy, (load[i] + time, server))
 
         max_count = max(count)
 
