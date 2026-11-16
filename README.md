@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1871-jump-game-vii](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1871-jump-game-vii) |
 | [1927-sum-game](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1927-sum-game) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/2409-count-days-spent-together) |
 | [2707-extra-characters-in-a-string](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/2707-extra-characters-in-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -665,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1094-car-pooling) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1929-concatenation-of-array](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1929-concatenation-of-array) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2402-meeting-rooms-iii](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/2402-meeting-rooms-iii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Stack
