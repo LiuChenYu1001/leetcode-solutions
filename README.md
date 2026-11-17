@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1406-stone-game-iii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1584-min-cost-to-connect-all-points](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1631-path-with-minimum-effort](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1406-stone-game-iii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1872-stone-game-viii](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1927-sum-game) |
@@ -576,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1406-stone-game-iii](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1406-stone-game-iii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1871-jump-game-vii](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1871-jump-game-vii) |
 | [1872-stone-game-viii](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [2707-extra-characters-in-a-string](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/2707-extra-characters-in-a-string) |
@@ -988,6 +991,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [1094-car-pooling](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1094-car-pooling) |
 | [1140-stone-game-ii](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1140-stone-game-ii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1871-jump-game-vii](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1871-jump-game-vii) |
 | [1872-stone-game-viii](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [3364-minimum-positive-sum-subarray](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
