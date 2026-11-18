@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0399-evaluate-division) |
+| [0412-fizz-buzz](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0459-repeated-substring-pattern](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0459-repeated-substring-pattern) |
 | [0500-keyboard-row](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0500-keyboard-row) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0343-integer-break](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0343-integer-break) |
 | [0371-sum-of-two-integers](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
+| [0412-fizz-buzz](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0836-rectangle-overlap](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0836-rectangle-overlap) |
@@ -673,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0735-asteroid-collision](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0885-spiral-matrix-iii](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0885-spiral-matrix-iii) |
 | [1094-car-pooling](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1094-car-pooling) |
