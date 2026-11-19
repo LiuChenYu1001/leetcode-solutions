@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0763-partition-labels) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0786-k-th-smallest-prime-fraction) |
+| [0826-most-profit-assigning-work](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0826-most-profit-assigning-work) |
 | [0870-advantage-shuffle](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0870-advantage-shuffle) |
 | [0881-boats-to-save-people](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0917-reverse-only-letters](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0917-reverse-only-letters) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0767-reorganize-string) |
+| [0826-most-profit-assigning-work](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0826-most-profit-assigning-work) |
 | [0846-hand-of-straights](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0846-hand-of-straights) |
 | [0870-advantage-shuffle](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0870-advantage-shuffle) |
 | [0881-boats-to-save-people](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0881-boats-to-save-people) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0752-open-the-lock](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0752-open-the-lock) |
 | [0778-swim-in-rising-water](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0786-k-th-smallest-prime-fraction) |
+| [0826-most-profit-assigning-work](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0826-most-profit-assigning-work) |
 | [0835-image-overlap](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0835-image-overlap) |
 | [0846-hand-of-straights](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0846-hand-of-straights) |
 | [0851-loud-and-rich](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0851-loud-and-rich) |
@@ -394,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0778-swim-in-rising-water](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0786-k-th-smallest-prime-fraction) |
+| [0826-most-profit-assigning-work](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0826-most-profit-assigning-work) |
 | [0875-koko-eating-bananas](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [0981-time-based-key-value-store](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0981-time-based-key-value-store) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -424,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0767-reorganize-string](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0767-reorganize-string) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0786-k-th-smallest-prime-fraction) |
+| [0826-most-profit-assigning-work](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0826-most-profit-assigning-work) |
 | [0846-hand-of-straights](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0846-hand-of-straights) |
 | [0853-car-fleet](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0853-car-fleet) |
 | [0870-advantage-shuffle](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0870-advantage-shuffle) |
