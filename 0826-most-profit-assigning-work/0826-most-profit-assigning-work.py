@@ -3,10 +3,10 @@ class Solution:
         job = sorted(zip(difficulty, profit))
         worker.sort()
 
-        ans = max_profit = i = 0
+        ans = i = max_profit = 0
 
         for ability in worker:
-            while i < len(job) and job[i][0] <= ability:
+            while i < len(profit) and job[i][0] <= ability:
                 max_profit = max(max_profit, job[i][1])
                 i += 1
 
