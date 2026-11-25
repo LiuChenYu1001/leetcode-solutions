@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1386-cinema-seat-allocation](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1405-longest-happy-string](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1405-longest-happy-string) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1095-find-in-mountain-array](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1095-find-in-mountain-array) |
 | [1140-stone-game-ii](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1267-count-servers-that-communicate](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1288-remove-covered-intervals](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -499,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0953-verifying-an-alien-dictionary](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0953-verifying-an-alien-dictionary) |
 | [0981-time-based-key-value-store](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0981-time-based-key-value-store) |
 | [0997-find-the-town-judge](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0997-find-the-town-judge) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1331-rank-transform-of-an-array](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
