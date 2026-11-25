@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1253-reconstruct-a-2-row-binary-matrix](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1386-cinema-seat-allocation](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1405-longest-happy-string](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1405-longest-happy-string) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1094-car-pooling) |
 | [1095-find-in-mountain-array](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1095-find-in-mountain-array) |
 | [1140-stone-game-ii](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1140-stone-game-ii) |
+| [1253-reconstruct-a-2-row-binary-matrix](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
 | [1267-count-servers-that-communicate](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1288-remove-covered-intervals](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
@@ -548,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0835-image-overlap) |
 | [0885-spiral-matrix-iii](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0885-spiral-matrix-iii) |
 | [0994-rotting-oranges](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/0994-rotting-oranges) |
+| [1253-reconstruct-a-2-row-binary-matrix](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
 | [1267-count-servers-that-communicate](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [1631-path-with-minimum-effort](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [2392-build-a-matrix-with-conditions](https://github.com/LiuChenYu1001/leetcode-solutions/tree/master/2392-build-a-matrix-with-conditions) |
